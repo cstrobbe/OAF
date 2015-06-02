@@ -20,8 +20,8 @@ co-ordinator, wrote the following post on his blog:
 
 ## OAf Documents
 * [Requirements for the Open Accessibility Framework (deliverable ID1.2.1)](https://github.com/cstrobbe/OAF-requirements).
-* AEGIS Open Accessibility Framework (deliverable D1.2.1) (coming soon)
-(download [OAF version 1.2.5 as PDF](http://www.aegis-project.eu/images/Deliverables/AEGIS_OAF_v1.2.5.pdf).
+* AEGIS Open Accessibility Framework (deliverable D1.2.1) (coming soon;
+download [OAF version 1.2.5 as PDF](http://www.aegis-project.eu/images/Deliverables/AEGIS_OAF_v1.2.5.pdf)).
 * Architecture of Web Application Accessibility (deliverable D3.1.2) (coming soon)
 
 ## Licence and Copyright
