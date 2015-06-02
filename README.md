@@ -18,7 +18,13 @@ co-ordinator, wrote the following post on his blog:
 [Announcing the AEGIS project - a €12.6m investment in open source accessibility](https://blogs.oracle.com/korn/entry/announcing_the_aegis_project_a) 
 (16 October 2008).
 
+## OAf Documents
+* [Requirements for the Open Accessibility Framework (deliverable ID1.2.1)](https://github.com/cstrobbe/OAF-requirements).
+* AEGIS Open Accessibility Framework (deliverable D1.2.1) (coming soon)
+(download [OAF version 1.2.5 as PDF](http://www.aegis-project.eu/images/Deliverables/AEGIS_OAF_v1.2.5.pdf).
+* Architecture of Web Application Accessibility (deliverable D3.1.2) (coming soon)
 
+## Licence and Copyright
 
 The content of this repository is hosted here with the permission of the AEGIS
 Consortium partners. 
