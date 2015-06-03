@@ -1,11 +1,12 @@
 # Open Accessibility Framework (OAF)
 
-The **Open Accessibility Framework** was originally developed in the context
+The **Open Accessibility Framework** was developed in the context
 of the European research & development project 
 [AEGIS](http://www.aegis-project.eu/), 
 which ran from September 2008 till August 2012
 and was funded by the European Commission as part of the 
-7th Framework Programme (FP7) under project number 224348. 
+7th Framework Programme (FP7) under 
+[project number 224348](http://cordis.europa.eu/project/rcn/88209_en.html).
 
 For an introduction to the Open Accessibility Framework you can refer to the 
 following sources: 
@@ -29,5 +30,5 @@ download [OAF version 1.2.5 as PDF](http://www.aegis-project.eu/images/Deliverab
 The content of this repository is hosted here with the permission of the AEGIS
 Consortium partners. 
 
-Licence: Creative Commons [CC BY-SA 4.0](LICENCE.html).
+Licence: Creative Commons Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](LICENCE.html).
 
