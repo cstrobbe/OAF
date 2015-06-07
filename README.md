@@ -25,14 +25,14 @@ categorises all AEGIS contributions (mostly open-source tools and software packa
 according to the six components or steps in the Open Accessibility Framework.
 
 ## OAf Documents
-* [Requirements for the Open Accessibility Framework (deliverable ID1.2.1)](https://github.com/cstrobbe/OAF-requirements).
-* AEGIS Open Accessibility Framework (deliverable D1.2.1) (coming soon;
+* [Requirements for the Open Accessibility Framework (AEGIS deliverable ID1.2.1)](https://github.com/cstrobbe/OAF-requirements).
+* AEGIS Open Accessibility Framework (AEGIS deliverable D1.2.1) (coming soon;
 download [OAF version 1.2.5 as PDF](http://www.aegis-project.eu/images/Deliverables/AEGIS_OAF_v1.2.5.pdf)).
 * [Architecture of Web Application Accessibility](https://github.com/cstrobbe/OAF-web)
 (deliverable D3.1.2, March 2010; coming soon)
 * [Open Accessible Desktop Architecture (PDF)](http://www.aegis-project.eu/images/docs/ApprovedDeliverablesForWebsite/AEGIS_D2.1.2_final.pdf)
 (AEGIS deliverable D2.1.2, April 2010)
-* [Built-in Accessibility Framework for Mobile Devices](http://www.aegis-project.eu/images/docs/ApprovedDeliverablesForWebsite/AEGIS%20D4%201%202_final.pdf) 
+* [Built-in Accessibility Framework for Mobile Devices (PDF)](http://www.aegis-project.eu/images/docs/ApprovedDeliverablesForWebsite/AEGIS%20D4%201%202_final.pdf) 
 (AEGIS deliverable D4.1.2, April 2010)
 
 
