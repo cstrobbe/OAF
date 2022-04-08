@@ -1,5 +1,7 @@
 # Open Accessibility Framework (OAF)
 
+**This repo has moved to [GitLab](https://gitlab.com/cstrobbe/OAF).**
+
 The **Open Accessibility Framework** was developed in the context
 of the European research & development project 
 [AEGIS](http://www.aegis-project.eu/), 
